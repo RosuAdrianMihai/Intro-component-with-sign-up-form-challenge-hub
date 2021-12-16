@@ -127,7 +127,7 @@ small{
 
 @media (max-width: 375px){
    body{
-       background-image:url("https://rosuadrianmihai.github.io/Intro-component-with-sign-up-form-challenge-hub/images/bg-intro-mobile.png");
+       background-image:url("https://github.com/RosuAdrianMihai/Intro-component-with-sign-up-form-challenge-hub/blob/master/images/bg-intro-mobile.png");
    }
    #form-container{
     padding:10%;
