@@ -112,7 +112,7 @@ small{
 
 @media (min-width: 376px){
   body{
-      background-image:url("https://rosuadrianmihai.github.io/Intro-component-with-sign-up-form-challenge-hub/images/bg-intro-desktop.png");
+      background-image:url("https://github.com/RosuAdrianMihai/Intro-component-with-sign-up-form-challenge-hub/blob/master/images/bg-intro-desktop.png");
   }
       .container{
           display:grid;
