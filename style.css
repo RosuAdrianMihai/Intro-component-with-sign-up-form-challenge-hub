@@ -112,7 +112,7 @@ small{
 
 @media (min-width: 376px){
   body{
-      background-image:url("/images/bg-intro-desktop.png");
+      background-image:url("bg-intro-desktop.png");
   }
       .container{
           display:grid;
@@ -127,7 +127,7 @@ small{
 
 @media (max-width: 375px){
    body{
-       background-image:url("/images/bg-intro-mobile.png");
+       background-image:url("bg-intro-mobile.png");
    }
    #form-container{
     padding:10%;
